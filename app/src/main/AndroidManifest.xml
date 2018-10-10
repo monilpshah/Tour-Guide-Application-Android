@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/images"
-        android:label="monu_techguru"
+        android:label="@string/monu_techguru"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name="monu.monilpshah.amd.MainActivity"

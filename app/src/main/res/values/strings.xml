@@ -1,3 +1,43 @@
 <resources>
+    <string name="monu_techguru">monu_techguru</string>
+
+    <string name="manekchowk">Manek Chowk Food bazaar</string>
+    <string name="manekchowDesc">One of the best place for night food</string>
+    <string name="manekchowAddress">Manek Chowk Rd, Danapidth, Khadia, Ahmedabad, Gujarat 380001</string>
+    <string name="mcphone">+91 84888 08878</string>
+    <string name="mcschedule">open for 8.00 pm to 2.00 am</string>
+    <string name="mcbill">As You order</string>
+
+    <string name="ab">Astodiya Bhajiya House</string>
+    <string name="abDesc">Place for bhajiya and gathiya</string>
+    <string name="abAddress">Opp Old ST Bus Stop Astodiya Darwaja Astodiya, Ahmedabad, Gujarat 380001</string>
+    <string name="abphone">79 6525 3737</string>
+    <string name="abschedule">open for all days</string>
+    <string name="abbill">As You order</string>
+
+    <string name="hl">H.L Maggi Center</string>
+    <string name="hlDesc">Maggi and pasta center</string>
+    <string name="hlAddress">S. V. Desai, Road, Navrangpura, Ahmedabad, Gujarat 380009</string>
+    <string name="hlphone">none</string>
+    <string name="hlschedule">open for all days</string>
+    <string name="hlbill">As You order</string>
+
+    <string name="Ahmedabad">Ahmedabad, </string>
+    <string name="Ahmedabaddesc"> also known as Amdavad,[8] is the largest city and former capital of the Indian state of Gujarat. It is the administrative headquarter of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabads population of 5,633,927 (as per 2011 population census) makes it the fifth most populous city in India,[4] and the encompassing urban agglomeration population estimated at 6,357,693 is the seventh most populous in India.[9][10] Ahmedabad is located on the banks of the Sabarmati River, 30 km (19 mi) from the state capital Gandhinagar, which is its twin city.[11] Ahmedabad has emerged as an important economic and industrial hub in India. It is the second largest producer of cotton in India, and its stock exchange is the country\'s second oldest. Cricket is a popular sport in Ahmedabad, which houses the 54,000-seat Sardar Patel Stadium. The effects of liberalisation of the Indian economy have energised the city\'s economy towards tertiary sector activities such as commerce, communication and construction.[12] Ahmedabad's increasing population has resulted in an increase in the construction and housing industries resulting in recent development of skyscrapers.[13] In 2010, Ahmedabad was ranked third in Forbes's list of fastest growing cities of the decade.[14] In 2012, The Times of India chose Ahmedabad as India's best city to live in.[15] As of 2014, Ahmedabad's estimated gross domestic product was $64 billion.[16] Ahmedabad has been selected as one of the hundred Indian cities to be developed as a smart city under Government of India's flagship Smart Cities Mission.[17] In July 2017, the Historic City of Ahmadabad or Old Ahmadabad, was declared as India's first UNESCO World Heritage City.[18]</string>
+    <string name="none"> </string>
+
+    <string name="hm">Himalaya mall</string>
+    <string name="hmDesc"> </string>
+    <string name="hmAddress">Drive In Rd, Nilmani Society, Gurukul, Ahmedabad, Gujarat 380006</string>
+    <string name="hmphone">+91 96246 83068</string>
+    <string name="hmschedule">Opens 10AM Wed Mon 10AM–10PM Tue-Sun 7:30AM–10PM</string>
+    <string name="hmbill">none</string>
+
+    <string name="am">Ahmedabad One mall</string>
+    <string name="amDesc">AHMEDABAD ONE is a shopping mall located at Vastrapur, Ahmedabad, India. The mall was opened in October 2011 and is the largest mixed used city centre in Ahmedabad. The mall was first named as Alpha One.</string>
+    <string name="amAddress">Plot No-216, T.P Scheme-1, Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat 380054</string>
+    <string name="amphone">79 4019 3672</string>
+    <string name="amschedule">10 AM to 10 PM</string>
+    <string name="ambill">none</string>
 
 </resources>

@@ -48,22 +48,22 @@ public class Shops {
     public static void initShopsList(List<Location> list, Context context) {
 
         list.add(new Location(
-                "Himalaya mall",
-                "",
-                "Drive In Rd, Nilmani Society, Gurukul, Ahmedabad, Gujarat 380006",
-                "+91 96246 83068",
-                "Opens 10AM Wed Mon 10AM–10PM Tue-Sun 7:30AM–10PM",
-                "none",
+                context.getString(R.string.hm),
+                context.getString(R.string.hmDesc),
+                context.getString(R.string.hmAddress),
+                context.getString(R.string.hmphone),
+                context.getString(R.string.hmschedule),
+                context.getString(R.string.hmbill),
                 R.drawable.hm
         ));
 
         list.add(new Location(
-                "Ahmedabad One mall",
-                "AHMEDABAD ONE is a shopping mall located at Vastrapur, Ahmedabad, India. The mall was opened in October 2011 and is the largest mixed used city centre in Ahmedabad. The mall was first named as Alpha One.",
-                "Plot No-216, T.P Scheme-1, Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat 380054",
-                "79 4019 3672",
-                "10 AM to 10 PM",
-                "none",
+                context.getString(R.string.am),
+                context.getString(R.string.amDesc),
+                context.getString(R.string.amAddress),
+                context.getString(R.string.amphone),
+                context.getString(R.string.amschedule),
+                context.getString(R.string.ambill),
                 R.drawable.ao
         ));
 

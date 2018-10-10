@@ -48,32 +48,32 @@ public class Food {
     public static void initFoodsList(List<Location> list, Context context) {
 
         list.add(new Location(
-                "Manek Chowk Food bazaar",
-                "One of the best place for night food",
-                "Manek Chowk Rd, Danapidth, Khadia, Ahmedabad, Gujarat 380001",
-                "+91 84888 08878",
-                "open for 8.00 pm to 2.00 am",
-                "As You order",
+                context.getString(R.string.manekchowk),
+                context.getString(R.string.manekchowDesc),
+                context.getString(R.string.manekchowAddress),
+                context.getString(R.string.mcphone),
+                context.getString(R.string.mcschedule),
+                context.getString(R.string.mcbill),
                 R.drawable.manek
         ));
 
         list.add(new Location(
-                "Astodiya Bhajiya House",
-                "Place for bhajiya and gathiya",
-                "Opp Old ST Bus Stop Astodiya Darwaja Astodiya, Ahmedabad, Gujarat 380001",
-                "79 6525 3737",
-                "open for all days",
-                "As You order",
+                context.getString(R.string.ab),
+                context.getString(R.string.abDesc),
+                context.getString(R.string.abAddress),
+                context.getString(R.string.abphone),
+                context.getString(R.string.abschedule),
+                context.getString(R.string.abbill),
                 R.drawable.abh
         ));
 
         list.add(new Location(
-                "H.L Maggi Center",
-                "Maggi and pasta center",
-                "S. V. Desai, Road, Navrangpura, Ahmedabad, Gujarat 380009\n",
-                "none",
-                "open for all days",
-                "As You order",
+                context.getString(R.string.hl),
+                context.getString(R.string.hlDesc),
+                context.getString(R.string.hlAddress),
+                context.getString(R.string.hlphone),
+                context.getString(R.string.hlschedule),
+                context.getString(R.string.hlbill),
                 R.drawable.hl
         ));
 
