@@ -48,22 +48,22 @@ public class Sights {
     public static void initSightsList(List<Location> list, Context context) {
 
         list.add(new Location(
-                "Sabarmati Aashram",
-                "abarmati Ashram is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining the Ashram Road, on the banks of the River Sabarmati, four miles from the town hall. This was one of the residences of Mahatma Gandhi who lived there for about twelve years along with his wife Kasturba Gandhi.Every day Bhagavad Gita was recited here",
-                "Gandhi Smarak Sangrahalaya, Ashram Rd, Ahmedabad, Gujarat 380027",
-                "79 2755 7277",
-                "Open for all the days",
-                "Free visit",
+                context.getString(R.string.sm),
+                context.getString(R.string.smDesc),
+                context.getString(R.string.smAddress),
+                context.getString(R.string.smphone),
+                context.getString(R.string.smschedule),
+                context.getString(R.string.smbill),
                 R.drawable.sa
         ));
 
         list.add(new Location(
-                "Kankariya lake",
-                "Kankaria Lake, formerly known as Hauj-e-Qutb, is the second largest lake in Ahmedabad, Gujarat, India. It is located in the south-eastern part of the city, in the Maninagar area. It was completed in 1451 during the reign of Sultan Qutb-ud-Din Ahmad Shah II though its origin is placed in the Chaulukya period sometimes",
-                " Maninagar, Ahmedabad, Gujarat",
-                "none",
-                "Open for all the days",
-                "50 INR",
+                context.getString(R.string.kl),
+                context.getString(R.string.klDesc),
+                context.getString(R.string.klAddress),
+                context.getString(R.string.klphone),
+                context.getString(R.string.klschedule),
+                context.getString(R.string.klbill),
                 R.drawable.kl
         ));
 

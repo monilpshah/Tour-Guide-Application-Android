@@ -40,4 +40,17 @@
     <string name="amschedule">10 AM to 10 PM</string>
     <string name="ambill">none</string>
 
+    <string name="sm">Sabarmati Aashram</string>
+    <string name="smDesc">sabarmati Ashram is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining the Ashram Road, on the banks of the River Sabarmati, four miles from the town hall. This was one of the residences of Mahatma Gandhi who lived there for about twelve years along with his wife Kasturba Gandhi.Every day Bhagavad Gita was recited here</string>
+    <string name="smAddress">Gandhi Smarak Sangrahalaya, Ashram Rd, Ahmedabad, Gujarat 380027</string>
+    <string name="smphone">79 2755 7277</string>
+    <string name="smschedule">Open for all the days</string>
+    <string name="smbill">Free visit</string>
+
+    <string name="kl">Kankariya lake</string>
+    <string name="klDesc">Kankaria Lake, formerly known as Hauj-e-Qutb, is the second largest lake in Ahmedabad, Gujarat, India. It is located in the south-eastern part of the city, in the Maninagar area. It was completed in 1451 during the reign of Sultan Qutb-ud-Din Ahmad Shah II though its origin is placed in the Chaulukya period sometimes</string>
+    <string name="klAddress"> Maninagar, Ahmedabad, Gujarat</string>
+    <string name="klphone">none</string>
+    <string name="klschedule">Open for all the days</string>
+    <string name="klbill">50 INR</string>
 </resources>
